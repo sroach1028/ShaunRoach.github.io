@@ -24,3 +24,6 @@ li {
   font-size: 1.5em;
   font-family: sans-serif;
 }
+br {
+  background-color: Tomato;
+}
